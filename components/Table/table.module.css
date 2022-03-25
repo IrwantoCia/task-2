@@ -1,0 +1,13 @@
+.container table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.container tr, .container td, .container thead, .container tbody, .container th {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+}
+
+.container th::first-letter {
+    text-transform:capitalize;
+}

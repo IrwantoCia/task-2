@@ -1,0 +1,8 @@
+export const GET_SAVINGS = 'GET_SAVINGS';
+export const UPDATE_SAVINGS = 'UPDATE_SAVINGS';
+
+export const GET_LOANS = 'GET_LOANS';
+export const UPDATE_LOANS = 'UPDATE_LOANS';
+
+export const GET_PAYMENTS = 'GET_PAYMENTS';
+export const UPDATE_PAYMENTS = 'UPDATE_PAYMENTS';

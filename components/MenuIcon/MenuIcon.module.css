@@ -1,0 +1,13 @@
+.home {
+  display: flex;
+  align-items: center;
+}
+
+.home > * {
+  cursor: pointer;
+}
+
+.homeIcon {
+  width: 3em;
+  height: 3em;
+}
